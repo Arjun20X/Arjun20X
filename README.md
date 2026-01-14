@@ -24,6 +24,8 @@
 - 🛠 Exploring **Linux, OS concepts & system-level programming**
 - Discipline & consistency mindset
 
+- <a href="https://www.linkedin.com/in/arjun-pratap-singh-4929b5287/">LinkedIn<a/>
+
 ---
 
 ### 🧩 Coding Profiles & Ratings
